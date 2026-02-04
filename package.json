@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Abdessamad404/task-management-app/issues"
   },
-  "homepage": "https://github.com/Abdessamad404/task-management-app#readme"
+  "homepage": "https://github.com/Abdessamad404/task-management-app#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.2.3",
+    "handlebars": "^4.7.8",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.1.0"
+  }
 }
