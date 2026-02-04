@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Public uploads and temp
+public/uploads/
+uploads/
+.cache/
+.tmp/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+desktop.ini
+
+# Build output
+dist/
+build/
+coverage/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Packed modules
+*.tgz
